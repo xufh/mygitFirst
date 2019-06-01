@@ -1,5 +1,5 @@
 package action;
-//测试冲突解决。1234
+//测试冲突解决。123456
 import javax.websocket.CloseReason;
 import javax.websocket.OnClose;
 import javax.websocket.OnError;
